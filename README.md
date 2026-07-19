@@ -1,5 +1,5 @@
-AdventureWorks Sales & Marketing Dashboard
-Project Overview
+# AdventureWorks Sales & Marketing Dashboard
+## Project Overview
 This project presents an interactive Sales and Marketing Dashboard developed in Microsoft Power BI using the AdventureWorks dataset.
 The dashboard helps business users monitor sales performance, profitability, product performance, regional sales, and product returns through interactive visualizations and drill-through analysis.
 
@@ -104,5 +104,5 @@ AdventureWorks-Sales-Marketing-Dashboard/
 
 Author
 Md Shariful Islam
-Data Analytics Portfolio Project
-Power BI | SQL | PostgreSQL | Data Visualization 
+## Data Analytics Portfolio Project
+## Power BI | SQL | PostgreSQL | Data Visualization 
