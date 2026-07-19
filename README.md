@@ -69,10 +69,15 @@ Skills Demonstrated
     • Conditional Formatting 
     • Business Intelligence Reporting 
 
-Dashboard Preview
-Main Dashboard
-Product Details (Drill-through)
-Report Tooltip
+## Dashboard Preview
+### Main Dashboard
+![Main Dashboard](Dashboard-AdventureWorks.png)
+
+### Product Details (Drill-through)
+![Product Details](Product-Details_AdventureWorks.png)
+
+### Report Tooltip
+![Report Tooltip](Tooltip_adventureWorks.png)
 
 Business Insights
 The dashboard enables users to:
