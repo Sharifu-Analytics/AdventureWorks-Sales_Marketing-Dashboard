@@ -73,11 +73,17 @@ Skills Demonstrated
 ### Main Dashboard
 ![Main Dashboard](Dashboard-AdventureWorks.png)
 
+Provides an executive overview of sales performance, profitability, regional sales, and product returns using interactive KPIs and visualizations.
+
 ### Product Details (Drill-through)
 ![Product Details](Product-Details_AdventureWorks.png)
 
+Allows users to analyze an individual product's revenue, profit, sales trend, and return quantity through drill-through functionality.
+
 ### Report Tooltip
 ![Report Tooltip](Tooltip_adventureWorks.png)
+
+Displays additional metrics when users hover over visuals, improving usability without leaving the main dashboard.
 
 Business Insights
 The dashboard enables users to:
@@ -107,7 +113,10 @@ AdventureWorks-Sales-Marketing-Dashboard/
 │   ├── drillthrough_AdventureWorks.png
 │   └── tooltip_AdventureWorks.png
 
-Author
-Md Shariful Islam
-## Data Analytics Portfolio Project
+
+## Author
+
+**Md Shariful Islam**
+
+Aspiring Data Analyst
 ## Power BI | SQL | PostgreSQL | Data Visualization 
